@@ -1,1 +1,1 @@
-print("Hello! Jenkins CI Pipeline is working.")
+echo "print('Jenkins detected a new change!')" >> hello.py
